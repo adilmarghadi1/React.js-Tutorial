@@ -11,7 +11,6 @@ function App() {
   const myelement = <h1>I Love JSX!</h1>;
   const myelement2 = React.createElement('h1', {}, 'Hello Guys')
 
-  const elt1 = <h1>React is THe Best 5 + 5 = {5+5}</h1>
 
   const x = 5;
  let text
